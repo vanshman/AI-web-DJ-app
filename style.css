@@ -1,0 +1,15 @@
+body{
+    background: url("background.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    white-space: normal;
+}
+.note{
+    font-size: 25px;
+}
